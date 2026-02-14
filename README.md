@@ -83,5 +83,5 @@ Desenvolvimento de aplicações que utilizam o estado da arte em modelos de ling
 
 ---
 <p align="center">
-  <i>"Data is the new oil, but MLOps is the refinery."</i>
+  <i>""If you want a thing done well, do it yourself." - Bonaparte, Napoleon</i>
 </p>
