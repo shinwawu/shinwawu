@@ -1,10 +1,10 @@
 <br />
 
 <h1 align="center">Olá, eu sou Washington Ying Ye Wu 👋</h1>
-<h3 align="center">Data Scientist Intern | MLOps & Generative AI Enthusiast</h3>
+<h3 align="center">Data Scientist | MLOps Engineer | Computer Vision Specialist</h3>
 
 <p align="center">
-  <b>Transformando dados brutos em soluções escaláveis através de IA e Engenharia de Produção.</b>
+  <b>Engenharia de Machine Learning aplicada: do processamento de sinais à produção em Cloud.</b>
 </p>
 
 <p align="center">
@@ -22,25 +22,25 @@
 
 <div align="left">
 
-**Linguagens & Dados**
+**Data Science & Machine Learning**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-
-**Machine Learning & Deep Learning**
-<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-**Cloud & MLOps**
+**Visão Computacional & PDI**
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+**MLOps & Cloud Infrastructure**
 <br/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
@@ -49,40 +49,43 @@
 
 ### ~/ 👨‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação na UTFPR** e atuo como **Estagiário de Ciência de Dados na MBRF**. Meu foco é construir o ciclo completo de modelos de IA, desde a análise exploratória até o deploy em ambientes Cloud de alta escala.
+Sou acadêmico de **Sistemas de Informação na UTFPR** e atuo como **Cientista de Dados** com foco em transformar modelos experimentais em soluções de produção escaláveis. Minha trajetória combina a análise estatística rigorosa com o desenvolvimento de arquiteturas modernas de IA.
 
-* 🧠 **Foco Atual:** Arquiteturas de **RAG (Retrieval-Augmented Generation)** e integração de LLMs para negócios.
-* 🌱 **Evoluindo em:** Práticas avançadas de **MLOps**, monitoramento de modelos com **MLflow** e infraestrutura na **Azure**.
-* 🎯 **Objetivo:** Aplicar Machine Learning para solucionar problemas complexos e automatizar decisões baseadas em dados.
-
----
-
-### 🚀 Expertise Técnica
-
-#### 🤖 IA Generativa & LLMs
-Experiência no desenvolvimento de sistemas que utilizam grandes modelos de linguagem para consulta de bases de conhecimento internas.
-* **Projetos:** Deploy de RAG via **FastAPI** e integração de IA Generativa no Microsoft Teams para democratização de dados.
-* **Ferramentas:** LangChain e engenharia de prompt para extração de insights.
-
-#### 👁️ Visão Computacional
-Histórico de projetos práticos aplicando processamento digital de imagens.
-* **Destaques:** Algoritmos para contagem automática de grãos de arroz e sistemas de correção automatizada de provas utilizando **OpenCV**.
-
-#### ⚙️ Engenharia de ML (MLOps)
-Foco em levar modelos do Jupyter Notebook para a produção de forma sustentável.
-* **Pipeline:** Orquestração de dados com **Azure Data Factory** e **Databricks**.
-* **Monitoramento:** Versionamento de experimentos e governança de modelos com **Azure ML**.
+* 🧠 **Machine Learning:** Especialista em modelos preditivos e regressão aplicados a Business e People Analytics.
+* ⚙️ **MLOps:** Implementação de pipelines de CI/CD para modelos de ML, utilizando **MLflow** para governança e **Docker** para containerização.
+* 👁️ **Visão Computacional:** Desenvolvimento de algoritmos de PDI, incluindo segmentação (Watershed), detecção de objetos e processamento morfológico.
+* 🤖 **IA Generativa:** Arquiteto de sistemas **RAG** e integração de LLMs em fluxos corporativos (Microsoft Teams).
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Expertise Técnica & Abordagens
+
+#### 📈 Machine Learning & MLOps
+Foco na redução do "time-to-market" de modelos de IA através de automação.
+* **Ciclo de Vida:** Orquestração de pipelines de dados com **Azure Data Factory** e monitoramento de experimentos no **Databricks**.
+* **Deployment:** Criação de back-ends escaláveis em **FastAPI** e interfaces interativas em **Streamlit**.
+
+#### 👁️ Visão Computacional (PDI)
+Aplicação de técnicas avançadas para extração de informação de dados não estruturados.
+* **Projetos:** Algoritmo de contagem de grãos via morfologia matemática e sistema de correção automática de gabaritos.
+* **Ferramentas:** Proficiência em **OpenCV** para processamento digital de imagens em Python.
+
+#### 🤖 Inteligência Artificial Generativa
+Desenvolvimento de aplicações que utilizam o estado da arte em modelos de linguagem.
+* **RAG:** Implementação de arquiteturas de recuperação de documentos para consultas em bases de conhecimento internas.
+* **Engenharia de Prompt:** Otimização de prompts para extração de insights e automação de relatórios.
+
+---
+
+### 📊 Estatísticas e Conquistas
+* 🎓 **Formação:** Bacharelado em Sistemas de Informação - UTFPR (Prev. 12/2027).
+* 🏆 **Certificações:** Microsoft AI & ML Engineering e IBM Data Science Professional.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinwawu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinwawu&layout=compact&theme=radical" />
 </p>
 
 ---
 <p align="center">
-  <i>"In God we trust, all others must bring data." – W. Edwards Deming</i>
+  <i>"Data is the new oil, but MLOps is the refinery."</i>
 </p>
