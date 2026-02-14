@@ -63,7 +63,7 @@ Sou acadêmico de **Sistemas de Informação na UTFPR** e atuo como **Cientista 
 #### 📈 Machine Learning & MLOps
 Foco na redução do "time-to-market" de modelos de IA através de automação.
 * **Ciclo de Vida:** Orquestração de pipelines de dados com **Azure Data Factory** e monitoramento de experimentos no **Databricks**.
-* **Deployment:** Criação de back-ends escaláveis em **FastAPI** e interfaces interativas em **Streamlit**.
+* **Deployment:** Criação de back-ends escaláveis em **FastAPI e Flask** e interfaces interativas em **Web/Streamlit**.
 
 #### 👁️ Visão Computacional (PDI)
 Aplicação de técnicas avançadas para extração de informação de dados não estruturados.
@@ -74,16 +74,12 @@ Aplicação de técnicas avançadas para extração de informação de dados nã
 Desenvolvimento de aplicações que utilizam o estado da arte em modelos de linguagem.
 * **RAG:** Implementação de arquiteturas de recuperação de documentos para consultas em bases de conhecimento internas.
 * **Engenharia de Prompt:** Otimização de prompts para extração de insights e automação de relatórios.
-
+* **Fine-Tuning**: Especialização no ajuste fino de LLMs.
 ---
 
 ### 📊 Estatísticas e Conquistas
 * 🎓 **Formação:** Bacharelado em Sistemas de Informação - UTFPR (Prev. 12/2027).
 * 🏆 **Certificações:** Microsoft AI & ML Engineering e IBM Data Science Professional.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinwawu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
 
 ---
 <p align="center">
