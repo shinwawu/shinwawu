@@ -4,7 +4,7 @@
 <h3 align="center">Data Scientist | MLOps Engineer | Computer Vision Specialist</h3>
 
 <p align="center">
-  <b>Engenharia de Machine Learning aplicada: do processamento de sinais à produção em Cloud.</b>
+  <b>Data Scientist/Engenharia de Machine Learning aplicada.</b>
 </p>
 
 <p align="center">
