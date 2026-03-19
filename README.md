@@ -4,7 +4,7 @@
 <h3 align="center">Data Scientist | MLOps Engineer | Computer Vision Specialist</h3>
 
 <p align="center">
-  <b>Data Scientist/Engenharia de Machine Learning aplicada.</b>
+  <b>Data Scientist/Machine Learning Enginner.</b>
 </p>
 
 <p align="center">
