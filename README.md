@@ -50,7 +50,7 @@
 
 ### ~/ 👨‍💻 Sobre Mim
 
-Sou acadêmico de **Sistemas de Informação na UTFPR** e atuo como **Cientista de Dados** com foco em transformar modelos experimentais em soluções de produção escaláveis. Minha trajetória combina a análise estatística rigorosa com o desenvolvimento de arquiteturas modernas de IA.
+Sou acadêmico de **Sistemas de Informação na UTFPR** e atuo como **Engenheiro de machine learning** com foco em transformar modelos experimentais em soluções de produção escaláveis. Minha trajetória combina a análise estatística rigorosa com o desenvolvimento de arquiteturas modernas de IA.
 
 * 🧠 **Machine Learning:** Especialista em modelos preditivos e regressão aplicados a Business e People Analytics.
 * ⚙️ **MLOps:** Implementação de pipelines de CI/CD para modelos de ML, utilizando **MLflow** para governança e **Docker** para containerização.
