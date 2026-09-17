@@ -53,7 +53,7 @@ Sou acadêmico de **Sistemas de Informação na UTFPR** e atuo como **Engenheiro
 
 * 🧠 **Machine Learning:** Especialista em modelos preditivos e regressão aplicados a Business e People Analytics.
 * ⚙️ **MLOps:** Implementação de pipelines de CI/CD para modelos de ML, utilizando **MLflow** para governança e **Docker** para containerização.
-* 👁️ **Visão Computacional:** Desenvolvimento de algoritmos de PDI, incluindo segmentação (Watershed), detecção de objetos e processamento morfológico.
+* 👁️ **Visão Computacional:** YOLO Training,Desenvolvimento de algoritmos de PDI, incluindo segmentação (Watershed), detecção de objetos e processamento morfológico.
 * 🤖 **IA Generativa:** Arquiteto de sistemas **RAG** e integração de LLMs em fluxos corporativos (Microsoft Teams).
 
 ---
@@ -67,7 +67,7 @@ Foco na redução do "time-to-market" de modelos de IA através de automação.
 
 #### 👁️ Visão Computacional (PDI)
 Aplicação de técnicas avançadas para extração de informação de dados não estruturados.
-* **Projetos:** Algoritmo de contagem de grãos via morfologia matemática e sistema de correção automática de gabaritos.
+* **Projetos:**  Modelo de Visão Computacional treinado que detecta e segmenta pólipos em exames de colonoscopia ,Algoritmo de contagem de grãos via morfologia matemática, sistema de correção automática de gabaritos.
 * **Ferramentas:** Proficiência em **OpenCV** para processamento digital de imagens em Python.
 
 #### 🤖 Inteligência Artificial Generativa
